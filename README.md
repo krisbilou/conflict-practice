@@ -3,7 +3,10 @@
 **[PLAY IT HERE (http://ncase.me/polygons)](http://ncase.me/polygons)**
 
 ---
+
 #this is release 2 change
+#this is release 1 changes
+
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 
 This repository is also being used as a part of GitHub training, to practice Git and GitHub.
